@@ -3,7 +3,6 @@
 Exploratory Data Analysis on Haberman's Dataset
 
 About the dataset:
-
 1)"status"=1 means patient has survived 5 years or more "status"=2 means patient had died before 5 years.
 2)"nodes" refers to number of positive axillary nodes
 3)There are 306 data points, 4 features (including class,ie, "status")
