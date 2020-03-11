@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-on-Haberman-Dataset
 
-Exploratory Data AAnalysis on Haberman's Dataset
+Exploratory Data Analysis on Haberman's Dataset
 
 About the dataset:
 
